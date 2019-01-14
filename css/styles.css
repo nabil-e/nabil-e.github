@@ -76,3 +76,9 @@ main > .tagline {
 	width: 2.65rem;
 	height: 2.65rem;
 }
+
+.becode{
+	color: inherit;
+	text-decoration: none;
+	text-shadow: 8px 3px 2px black;
+}
