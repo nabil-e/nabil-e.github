@@ -12,3 +12,10 @@ main {
 .icons-social a svg path{
 	fill: #303F9F;
 }
+
+main > .intro2 {
+	font-family: 'Reem Kufi', sans-serif;
+	font-size: 3.75em;
+	font-weight: 600;
+	color: crimson;
+}
